@@ -4,7 +4,7 @@ Vim
 ---
 <a href ="https://vim-adventures.com/"> vim-adventures.com </a>
 
-<a href= "https://www.openvim.com/> openvim.com </a>
+<a href= "https://www.openvim.com/"> openvim.com </a>
 
 <p> Vim, Emacs, TextMate, Coda, MacVim </p>
 
