@@ -1,17 +1,8 @@
-Vim
-
+<h1> Vim </h1> 
 
 ---
-<a href ="https://vim-adventures.com/"> vim-adventures.com </a>
 
-<a href= "https://www.openvim.com/"> openvim.com </a>
-
-<p> Vim, Emacs, TextMate, Coda, MacVim </p>
-
-<p> Born 1991 </p> 
-
-
-<p> Modal Editing </p>
+<h3> Reason to learn VIM </h3>
 
 <ul>
   <li> Vi is guaranteed to exist on all Unix systems and exists on most Linux ones as well.</li>
@@ -25,18 +16,29 @@ Vim
  </ul>
 
 
-<p> Operators </p> 
+<h3> Resource to learn from </h3>
+
+<a href ="https://vim-adventures.com/"> vim-adventures.com </a>
+
+<a href= "https://www.openvim.com/"> openvim.com </a>
+
+<a href= "https://www.shortcutfoo.com/"> openvim.com </a>
+
+
+<h3> Arrow comands </h3>
 
 <p> h,j,k,l: left, down, up, right </p>
 
 
 
+<h3> Word jumping  </h3>
 <ul> 
   <li> w: Go to start of next word </li>
   <li> e: Go to end of next word </li>
   <li> b: Go to start of previous word</li>
   </ul>
   
+<h3> Delete </h3>  
   
 <ul> 
   <li> dw: delete word</li>
@@ -46,11 +48,14 @@ Vim
   <li> D: delete form marker to end of line
   </ul>
 
+<h3> Line jumping </h3>  
 
 <ul> 
   <li> $: Go to end of line</li>
   <li> 0: Go to start of line</li>
  </ul>
+ 
+<h3> Basic commands </h3>   
  
  <ul>
    <li> vim: starts wim </li> 
@@ -58,7 +63,7 @@ Vim
   </ul>
   
   
-  <p> Setup </p>
+  <h3> Setup </h3>
   
   <p> Controll panel => security => advanced settings => environment variables. <br> <br>
   each environment value has NAME = VALUE. Point of variable is communicate to programs how the machine is setup and 
