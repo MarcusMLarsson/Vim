@@ -44,6 +44,7 @@
   <li> dW: delete word including signs </li>
   <li> de: delete from marker to end of word </li>
   <li> dd: delete entire line
+  <li> 5dd: delete 5 lines
   <li> D: delete form marker to end of line
   </ul>
 
@@ -57,8 +58,13 @@
 <h3> Basic commands </h3>   
  
  <ul>
-   <li> vim: starts wim </li> 
+  <li> vim: starts wim </li> 
   <li> :q: quit </li> 
+  <li> :i: isnert mode </li> 
+  <li> :ESC: manual mode </li> 
+  <li> :q!: quit without changes </li> 
+  <li> :set number: gives number lines </li>
+  <li> :u: undo last action
   </ul>
   
   <h3> Setup </h3>
