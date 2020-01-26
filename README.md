@@ -1,9 +1,7 @@
 <h1> Vim </h1> 
 
----
-
-<h3> Reason to learn VIM </h3>
-
+<i>
+<p> Reason to learn VIM </p>
 <ul>
   <li> Vi is guaranteed to exist on all Unix systems and exists on most Linux ones as well.</li>
   <li>Vim is free and has a vibrant community </li>
@@ -14,7 +12,9 @@
   <li>If you plan to configure anything in a Unix based system, Vim is one of the best terminal based editor.</li>
   <li>Vim allows you to easily code without taking your hands off the keyboard.</li>
  </ul>
+</i>
 
+---
 
 <h3> Resource to learn from </h3>
 
@@ -28,7 +28,6 @@
 <h3> Arrow comands </h3>
 
 <p> h,j,k,l: left, down, up, right </p>
-
 
 
 <h3> Word jumping  </h3>
@@ -61,7 +60,6 @@
    <li> vim: starts wim </li> 
   <li> :q: quit </li> 
   </ul>
-  
   
   <h3> Setup </h3>
   
