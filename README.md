@@ -60,11 +60,12 @@
  <ul>
   <li> vim: starts wim </li> 
   <li> :q: quit </li> 
-  <li> :i: isnert mode </li> 
-  <li> :ESC: manual mode </li> 
-  <li> :q!: quit without changes </li> 
-  <li> :set number: gives number lines </li>
-  <li> :u: undo last action
+  <li> i: isnert mode </li> 
+  <li> ESC: manual mode </li> 
+  <li> q!: quit without changes </li> 
+  <li> set number: gives number lines </li>
+  <li> u: undo last action </li>
+  <li> /: search </li>
   </ul>
   
   <h3> Setup </h3>
